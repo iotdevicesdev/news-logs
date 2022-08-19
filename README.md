@@ -137,3 +137,30 @@ The GGreg20_V3 radioactive particle detector with the SBM-20 is installed in Dor
 >The example repository for the GGreg20_V3 ionizing radiation detector module has been included in the list of the top-100 open source projects ESPHome / Home Assistant, curated by Awesome Open Source.
 
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2022/01/ggreg20_v3_githublogo_iot-deviceslogo-1024x683.png)
+
+
+## 10.01.2022
+### [EN: ESP32 Tasmota Firmware driver for GGreg20_V3](https://iot-devices.com.ua/en/drajver-ggreg20_v3-dlya-esp32-z-proshyvkoyu-tasmota/)
+#### [UA: Драйвер GGreg20_V3 для ESP32 з прошивкою Tasmota](https://iot-devices.com.ua/drajver-ggreg20_v3-dlya-esp32-z-proshyvkoyu-tasmota/)
+
+>The IoT-devices team developed, tested and made available on GitHub a ready-to-use GGreg20_V3 driver for ESP32 with Tasmota firmware and Berry scripting language.
+
+![Image](https://iot-devices.com.ua/wp-content/uploads/2022/01/ggreg20_v3_esp32_tasmota_-1024x683.jpg)
+
+
+## 03.12.2021
+### [EN: Ionizing Radiation Detector GGreg20_V3 – the ability for customers to have the module delivered from the warehouse in the USA](https://iot-devices.com.ua/en/ionizing-radiation-detector-ggreg20_v3-the-ability-for-customers-to-have-the-module-delivered-from-the-warehouse-in-the-usa/)
+#### [UA: Детектор радіоактивних частинок GGreg20_V3 – можливість для клієнтів замовляти модуль з доставкою США – США](https://iot-devices.com.ua/detektor-radioaktyvnyh-chastynok-ggreg20_v3-dostavka-ssha-ssha/)
+
+>Information for those who planned to buy our popular module GGreg20_V3 but didn’t want to wait long for delivery.
+
+![Image](https://iot-devices.com.ua/wp-content/uploads/2021/12/ggreg20-v3-front-back.jpg)
+
+
+## 14.09.2021
+### [EN: How to choose the right I2C chips. Or the hidden software problem of choosing hardware modules](https://iot-devices.com.ua/en/how-to-choose-the-right-i2c-chips-en/)
+#### [UA: Як правильно вибрати I2C чіпи. Або про приховану програмну проблему вибору апаратних модулів](https://iot-devices.com.ua/how-to-choose-the-right-i2c-chips-ukr/)
+
+>Most IoT devices support the I2C interface as basic. Moreover, the support of the I2C bus is usually a decisive factor in the selection of chips in our projects. But any system has not only advantages. There are also shortcomings and hidden problems that we reveal in the publications.
+
+![Image](https://iot-devices.com.ua/wp-content/uploads/2021/09/ggreg20-1024x287.jpg)
