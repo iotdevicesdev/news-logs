@@ -1,4 +1,4 @@
-# IoT-devices LLC Company's News and Logs
+# IoT-devices LLC News and Logs
 In this repository you will find news and changelog of our projects. This data is also available on our [website](https://iot-devices.com.ua/en/) and on [Hackaday](https://hackaday.io/iotdevicesdev) or [Twitter](https://twitter.com/iotdevicescomua) or [AllMyLinks](https://allmylinks.com/iot-devices), but for convenience, we decided to post it here as well, so that everyone can read our news posts without leaving GitHub.
 
 Best Regards,
