@@ -10,6 +10,7 @@ IoT-devices LLC News and Product Logs Repo
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2021/06/ggreg-3dcase-1-1024x520.jpg)
 
 
+
 ## 03.08.2022
 ### [EN: DIY Geiger counter: GGreg20_V3 and ESP12.OLED connection diagram (Technical note)](https://iot-devices.com.ua/en/diy_geiger_counter_ggreg20_v3_and_esp12-oled_wiring_diagram_en/)
 #### [UA: Лічильник Гейгера своїми руками: схема підключення GGreg20_V3 та ESP12.OLED (Технічна примітка)](https://iot-devices.com.ua/diy_geiger_counter_ggreg20_v3_and_esp12-oled_wiring_diagram_uk/)
@@ -19,6 +20,7 @@ IoT-devices LLC News and Product Logs Repo
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2022/07/foto1-esp12oled-esp8266-ggreg20v3-1024x768.jpg)
 
 
+
 ## 27.07.2022
 ### [EN: How to add the GGreg20_V3 ThingSpeak channel sensor to the Home Assistant server](https://iot-devices.com.ua/en/how-to-add-the-ggreg20-v3-thingspeak-channel-sensor-to-the-home-assistant-server/)
 #### [UA: Як додати в сервер Home Assistant сенсор GGreg20_V3 з каналу ThingSpeak](https://iot-devices.com.ua/yak-dodaty-v-server-home-assistant-sensor-ggreg20_v3-z-kanalu-thingspeak/)
@@ -26,6 +28,7 @@ IoT-devices LLC News and Product Logs Repo
 >If you have a controller with a GGreg20_V3 radiation detector module that periodically sends data to the ThingSpeak server, you can also easily connect it to your Home Assistant server as well. In this publication we will look at why this might be necessary and how to do it.
 
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2022/07/foto1-esp12oled-esp8266-ggreg20v3-1024x768.jpg)
+
 
 
 ## 13.07.2022
@@ -38,6 +41,7 @@ What a week! The IoT-devices LLC team is grateful and thanks the DIY community a
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2022/07/ggreg20_v3_tindie_popularproducts_2022-07-12_203946-1024x769.jpg)
 
 
+
 ## 28.05.2022
 ### [EN: Why we didn’t add the I2C interface to the GGreg20_V3 module](https://iot-devices.com.ua/en/why-we-didnt-add-the-i2c-interface-to-the-ggreg20_v3-module/)
 #### [UA: Чому ми не додали інтерфейс I2C у модуль GGreg20_V3](https://iot-devices.com.ua/why-we-didnt-add-the-i2c-interface-to-the-ggreg20_v3-module-uk/)
@@ -45,6 +49,7 @@ What a week! The IoT-devices LLC team is grateful and thanks the DIY community a
 >Indeed, why not add such a convenient interface to the module? Here is our next article where we discuss the advantages and disadvantages of equipping the GGreg20_V3 ionizing radiation detector module with an I2C interface.
 
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2022/05/6-ggreg20_v3_iot-deviceslogo_i2c_publpic_eng-1024x683.png)
+
 
 
 ## 24.05.2022
@@ -57,6 +62,7 @@ The GGreg20_V3 radioactive particle detector is installed in Budapest, Pest, Hun
 ![Image](https://radmon.org/UserGraphs/htotoo/graphtoday.png)
 
 
+
 ## 07.05.2022
 ### [EN: The GGreg20_V3 radioactive particle detector is installed in Dornstadt, Baden-Württemberg, Germany and connected to the radmon.org service](https://iot-devices.com.ua/en/detektor-radioaktyvnyh-chastynok-ggreg20_v3-vstanovleno-v-dornstadt-baden-wurttemberg-germany-ta-pidklyucheno-do-servisu-radmon-org/)
 #### [UA: Детектор радіоактивних частинок GGreg20_V3 встановлено в Dornstadt, Baden-Württemberg, Germany та підключено до сервісу radmon.org](https://iot-devices.com.ua/detektor-radioaktyvnyh-chastynok-ggreg20_v3-vstanovleno-v-dornstadt-baden-wurttemberg-germany-ta-pidklyucheno-do-servisu-radmon-org/)
@@ -65,6 +71,7 @@ The GGreg20_V3 radioactive particle detector is installed in Budapest, Pest, Hun
 The GGreg20_V3 radioactive particle detector with the SBM-20 is installed in Dornstadt, Baden-Württemberg, Germany and connected to radmon.org service.
 
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2022/05/ggreg_v3_customersetupgermany_2022-01-27_012207-1024x759.jpg)
+
 
 
 ## 02.05.2022
@@ -76,6 +83,7 @@ The GGreg20_V3 radioactive particle detector with the SBM-20 is installed in Dor
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2021/09/ggreg20-1024x287.jpg)
 
 
+
 ## 04.02.2022
 ### [EN: Lua code example for GGreg20_V3 with NodeMCU firmware with ESP8266 / ESP32 controller](https://iot-devices.com.ua/en/lua-code-example-for-ggreg20-with-nodemcu-firmware-esp8266-esp32/)
 #### [UA: Приклад Lua коду для GGreg20_V3 з прошивкою NodeMCU з контролером ESP8266 / ESP32](https://iot-devices.com.ua/lua-code-example-for-ggreg20-with-nodemcu-firmware-esp8266-esp32/)
@@ -83,6 +91,7 @@ The GGreg20_V3 radioactive particle detector with the SBM-20 is installed in Dor
 >Kyiv. Ukraine. The IoT-devices LLC team has developed and made available on GitHub an example in Lua for its GGreg20_V3 product, which can be used for ESP8266 and ESP32 controllers with NodeMCU firmware.
 
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2022/02/ggreg20_v3_luaexample_iot-deviceslogo-1024x683.png)
+
 
 
 ## 03.02.2022
@@ -94,6 +103,7 @@ The GGreg20_V3 radioactive particle detector with the SBM-20 is installed in Dor
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2022/02/ggreg20_v3_arduino_library_manager_marked_2022-01-26_002932.jpg)
 
 
+
 ## 27.01.2022
 ### [EN: IoT-devices LLC announces the development of a new driver library for the GGreg20_V3 module for the popular Arduino platform](https://iot-devices.com.ua/en/iot-devices-announces-the-development-of-a-new-driver-library-for-the-ggreg20v3-module-for-the-arduino-platform/)
 #### [UA: IoT-devices LLC повідомляє про розробку нової бібліотеки драйверів модуля GGreg20_V3 для популярної платформи Arduino](https://iot-devices.com.ua/iot-devices-announces-the-development-of-a-new-driver-library-for-the-ggreg20v3-module-for-the-arduino-platform/)
@@ -101,6 +111,7 @@ The GGreg20_V3 radioactive particle detector with the SBM-20 is installed in Dor
 >Kyiv. Ukraine. IoT-devices LLC announces the development of a new driver library for the GGreg20_V3 module for the popular Arduino platform.
 
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2022/01/ggreg20_v3_arduinocomunitylogo_iot-deviceslogo-1024x683.png)
+
 
 
 ## 26.01.2022
@@ -112,6 +123,7 @@ The GGreg20_V3 radioactive particle detector with the SBM-20 is installed in Dor
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2022/01/ggreg20_v3_voltage-level-matching-3v3output-5vinput_wlogo-1024x576.jpg)
 
 
+
 ## 24.01.2022
 ### [EN: GGreg20_V3 radiation meter module simulator for Arduino UNO based on WOKWI](https://iot-devices.com.ua/en/simulator-modulya-lichylnyka-vyprominyuvannya-ggreg20_v3-dlya-arduino-uno-na-base-wokwi/)
 #### [UA: Симулятор модуля лічильника випромінювання GGreg20_V3 для Arduino UNO на базі WOKWI](https://iot-devices.com.ua/symulyator-modulya-lichylnyka-vyprominyuvannya-ggreg20_v3-dlya-arduino-uno-na-bazi-wokwi/)
@@ -119,6 +131,7 @@ The GGreg20_V3 radioactive particle detector with the SBM-20 is installed in Dor
 >We decided to contribute to the development of open source software for the Arduino platform and developed a training example in the WOKWI simulator for our popular GGreg20_V3 ionizing radiation detector module, which works in conjunction with the Arduino UNO controller.
 
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2022/01/ggreg20_v3_arduinouno_wokwisimulator_iot-deviceslogo-1024x576.png)
+
 
 
 ## 13.01.2022
@@ -130,6 +143,7 @@ The GGreg20_V3 radioactive particle detector with the SBM-20 is installed in Dor
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2022/01/ggreg20_v3_esp32_tasmota_supported_device_iot-deviceslogo-1024x683.png)
 
 
+
 ## 12.01.2022
 ### [EN: GGreg20_V3 was included in the list of top 100 Awesome Open Source Projects](https://iot-devices.com.ua/en/detektor-ionizuyuchogo-vyprominyuvannya-ggreg20_v3-repozytorij-prykladiv/)
 #### [UA: GGreg20_V3 потрапив до списку топ-100 Awesome Open Source Projects](https://iot-devices.com.ua/detektor-ionizuyuchogo-vyprominyuvannya-ggreg20_v3-repozytorij-prykladiv/)
@@ -137,6 +151,7 @@ The GGreg20_V3 radioactive particle detector with the SBM-20 is installed in Dor
 >The example repository for the GGreg20_V3 ionizing radiation detector module has been included in the list of the top-100 open source projects ESPHome / Home Assistant, curated by Awesome Open Source.
 
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2022/01/ggreg20_v3_githublogo_iot-deviceslogo-1024x683.png)
+
 
 
 ## 10.01.2022
@@ -148,6 +163,7 @@ The GGreg20_V3 radioactive particle detector with the SBM-20 is installed in Dor
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2022/01/ggreg20_v3_esp32_tasmota_-1024x683.jpg)
 
 
+
 ## 03.12.2021
 ### [EN: Ionizing Radiation Detector GGreg20_V3 – the ability for customers to have the module delivered from the warehouse in the USA](https://iot-devices.com.ua/en/ionizing-radiation-detector-ggreg20_v3-the-ability-for-customers-to-have-the-module-delivered-from-the-warehouse-in-the-usa/)
 #### [UA: Детектор радіоактивних частинок GGreg20_V3 – можливість для клієнтів замовляти модуль з доставкою США – США](https://iot-devices.com.ua/detektor-radioaktyvnyh-chastynok-ggreg20_v3-dostavka-ssha-ssha/)
@@ -155,6 +171,7 @@ The GGreg20_V3 radioactive particle detector with the SBM-20 is installed in Dor
 >Information for those who planned to buy our popular module GGreg20_V3 but didn’t want to wait long for delivery.
 
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2021/12/ggreg20-v3-front-back.jpg)
+
 
 
 ## 14.09.2021
