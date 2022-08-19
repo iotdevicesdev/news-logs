@@ -1,5 +1,9 @@
-# Company's News and Logs
-IoT-devices LLC News and Product Logs Repo
+# IoT-devices LLC Company's News and Logs
+In this repository you will find news and changelog of our projects. This data is also available on our [website](https://iot-devices.com.ua/en/) and on [Hackaday](https://hackaday.io/iotdevicesdev) or [Twitter](https://twitter.com/iotdevicescomua) or [AllMyLinks](https://allmylinks.com/iot-devices), but for convenience, we decided to post it here as well, so that everyone can read our news posts without leaving GitHub.
+
+Best Regards,
+
+IoT-devices Team
 
 ## 18.08.2022
 ### [EN: The case 3d-model for the GGreg20_V3 module for personal use](https://iot-devices.com.ua/en/ggreg20v3-case-3d-model-for-personal-use/)
