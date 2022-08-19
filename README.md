@@ -65,3 +65,39 @@ The GGreg20_V3 radioactive particle detector is installed in Budapest, Pest, Hun
 The GGreg20_V3 radioactive particle detector with the SBM-20 is installed in Dornstadt, Baden-Württemberg, Germany and connected to radmon.org service.
 
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2022/05/ggreg_v3_customersetupgermany_2022-01-27_012207-1024x759.jpg)
+
+
+## 02.05.2022
+### [EN: The GGreg20_v3 dosimeter can now be ordered in 4 different configurations](https://iot-devices.com.ua/en/dozymetr-ggreg20_v3-teper-mozhna-zamovyty-u-4-h-riznyh-komplektacziyah/)
+#### [UA: Дозиметр GGreg20_v3 тепер можна замовити у 4-х різних комплектаціях](https://iot-devices.com.ua/dozymetr-ggreg20_v3-teper-mozhna-zamovyty-u-4-h-riznyh-komplektacziyah/)
+
+>The GGreg20_v3 radioactive particle detector can now be ordered in 4 different configurations. When ordering, the customer chooses one of the following options...
+
+![Image](https://iot-devices.com.ua/wp-content/uploads/2021/09/ggreg20-1024x287.jpg)
+
+
+## 04.02.2022
+### [EN: Lua code example for GGreg20_V3 with NodeMCU firmware with ESP8266 / ESP32 controller](https://iot-devices.com.ua/en/lua-code-example-for-ggreg20-with-nodemcu-firmware-esp8266-esp32/)
+#### [UA: Приклад Lua коду для GGreg20_V3 з прошивкою NodeMCU з контролером ESP8266 / ESP32](https://iot-devices.com.ua/lua-code-example-for-ggreg20-with-nodemcu-firmware-esp8266-esp32/)
+
+>Kyiv. Ukraine. The IoT-devices LLC team has developed and made available on GitHub an example in Lua for its GGreg20_V3 product, which can be used for ESP8266 and ESP32 controllers with NodeMCU firmware.
+
+![Image](https://iot-devices.com.ua/wp-content/uploads/2022/02/ggreg20_v3_luaexample_iot-deviceslogo-1024x683.png)
+
+
+## 03.02.2022
+### [EN: The GGreg20_V3 driver library has been added to the Arduino IDE Library Manager](https://iot-devices.com.ua/en/ggreg20_v3-driver-library-added-to-library-manager-arduino-ide/)
+#### [UA: Бібліотека драйверів для GGreg20_V3 додана у “Library Manager” Arduino IDE](https://iot-devices.com.ua/ggreg20_v3-driver-library-added-to-library-manager-arduino-ide/)
+
+>Kyiv. Ukraine. The driver library for the GGreg20_V3 ionizing radiation detector manufactured by IoT-devices LLC has been approved and added to the official Library Manager, which is a component of the Arduino IDE development environment.
+
+![Image](https://iot-devices.com.ua/wp-content/uploads/2022/02/ggreg20_v3_arduino_library_manager_marked_2022-01-26_002932.jpg)
+
+
+## 27.01.2022
+### [EN: IoT-devices LLC announces the development of a new driver library for the GGreg20_V3 module for the popular Arduino platform](https://iot-devices.com.ua/en/iot-devices-announces-the-development-of-a-new-driver-library-for-the-ggreg20v3-module-for-the-arduino-platform/)
+#### [UA: IoT-devices LLC повідомляє про розробку нової бібліотеки драйверів модуля GGreg20_V3 для популярної платформи Arduino](https://iot-devices.com.ua/iot-devices-announces-the-development-of-a-new-driver-library-for-the-ggreg20v3-module-for-the-arduino-platform/)
+
+>Kyiv. Ukraine. IoT-devices LLC announces the development of a new driver library for the GGreg20_V3 module for the popular Arduino platform.
+
+![Image](https://iot-devices.com.ua/wp-content/uploads/2022/01/ggreg20_v3_arduinocomunitylogo_iot-deviceslogo-1024x683.png)
