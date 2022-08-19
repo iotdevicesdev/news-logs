@@ -45,3 +45,23 @@ What a week! The IoT-devices LLC team is grateful and thanks the DIY community a
 >Indeed, why not add such a convenient interface to the module? Here is our next article where we discuss the advantages and disadvantages of equipping the GGreg20_V3 ionizing radiation detector module with an I2C interface.
 
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2022/05/6-ggreg20_v3_iot-deviceslogo_i2c_publpic_eng-1024x683.png)
+
+
+## 24.05.2022
+### [EN: The GGreg20_V3 radioactive particle detector is installed in Budapest, Pest, Hungary and connected to the radmon.org service](https://iot-devices.com.ua/en/detektor-radioaktyvnyh-chastynok-ggreg20_v3-vstanovleno-v-budapest-pest-hungary-ta-pidklyucheno-do-servisu-radmon-org/)
+#### [UA: Детектор радіоактивних частинок GGreg20_V3 встановлено в Budapest, Pest, Hungary та підключено до сервісу radmon.org](https://iot-devices.com.ua/detektor-radioaktyvnyh-chastynok-ggreg20_v3-vstanovleno-v-budapest-pest-hungary-ta-pidklyucheno-do-servisu-radmon-org/)
+
+>Great news! Another of our clients connected the purchased GGreg20_V3 module to the radmon.org service.
+The GGreg20_V3 radioactive particle detector is installed in Budapest, Pest, Hungary and connected to the service.
+
+![Image](https://radmon.org/UserGraphs/htotoo/graphtoday.png)
+
+
+## 07.05.2022
+### [EN: The GGreg20_V3 radioactive particle detector is installed in Dornstadt, Baden-Württemberg, Germany and connected to the radmon.org service](https://iot-devices.com.ua/en/detektor-radioaktyvnyh-chastynok-ggreg20_v3-vstanovleno-v-dornstadt-baden-wurttemberg-germany-ta-pidklyucheno-do-servisu-radmon-org/)
+#### [UA: Детектор радіоактивних частинок GGreg20_V3 встановлено в Dornstadt, Baden-Württemberg, Germany та підключено до сервісу radmon.org](https://iot-devices.com.ua/detektor-radioaktyvnyh-chastynok-ggreg20_v3-vstanovleno-v-dornstadt-baden-wurttemberg-germany-ta-pidklyucheno-do-servisu-radmon-org/)
+
+>Accidentally found a product manufactured by our company at work in Germany.
+The GGreg20_V3 radioactive particle detector with the SBM-20 is installed in Dornstadt, Baden-Württemberg, Germany and connected to radmon.org service.
+
+![Image](https://iot-devices.com.ua/wp-content/uploads/2022/05/ggreg_v3_customersetupgermany_2022-01-27_012207-1024x759.jpg)
