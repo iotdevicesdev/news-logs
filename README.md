@@ -101,3 +101,39 @@ The GGreg20_V3 radioactive particle detector with the SBM-20 is installed in Dor
 >Kyiv. Ukraine. IoT-devices LLC announces the development of a new driver library for the GGreg20_V3 module for the popular Arduino platform.
 
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2022/01/ggreg20_v3_arduinocomunitylogo_iot-deviceslogo-1024x683.png)
+
+
+## 26.01.2022
+### [EN: Technical note on voltage level matching for GGreg20_V3 and 5V MCU](https://iot-devices.com.ua/en/technical-note-on-voltage-level-matching-for-ggreg20v3-and-5v-mcu/)
+#### [UA: Технічна примітка щодо узгодження рівнів напруги GGreg20_V3 з контролером 5В](https://iot-devices.com.ua/technical-note-on-voltage-level-matching-for-ggreg20v3-and-5v-mcu/)
+
+>To the attention of owners of controllers with a voltage level of 5V on GPIO (such as Arduino) to which GGreg20_V3 with 3V3 logic is connected.
+
+![Image](https://iot-devices.com.ua/wp-content/uploads/2022/01/ggreg20_v3_voltage-level-matching-3v3output-5vinput_wlogo-1024x576.jpg)
+
+
+## 24.01.2022
+### [EN: GGreg20_V3 radiation meter module simulator for Arduino UNO based on WOKWI](https://iot-devices.com.ua/en/simulator-modulya-lichylnyka-vyprominyuvannya-ggreg20_v3-dlya-arduino-uno-na-base-wokwi/)
+#### [UA: Симулятор модуля лічильника випромінювання GGreg20_V3 для Arduino UNO на базі WOKWI](https://iot-devices.com.ua/symulyator-modulya-lichylnyka-vyprominyuvannya-ggreg20_v3-dlya-arduino-uno-na-bazi-wokwi/)
+
+>We decided to contribute to the development of open source software for the Arduino platform and developed a training example in the WOKWI simulator for our popular GGreg20_V3 ionizing radiation detector module, which works in conjunction with the Arduino UNO controller.
+
+![Image](https://iot-devices.com.ua/wp-content/uploads/2022/01/ggreg20_v3_arduinouno_wokwisimulator_iot-deviceslogo-1024x576.png)
+
+
+## 13.01.2022
+### [EN: The ionizing radiation detector module IoT-devices GGreg20_V3 is included in the list of devices compatible with Tasmota](https://iot-devices.com.ua/en/module-detector-ionizuyuchoyi-radiacziyi-iot-devices-ggreg20_v3-uvijshov-u-perelik-prystroyiv-sumisnyh-z-tasmota/)
+#### [UA: Модуль детектора іонізуючої радіації IoT-devices GGreg20_V3 увійшов у перелік пристроїв сумісних з Tasmota](https://iot-devices.com.ua/modul-detektora-ionizuyuchoyi-radiacziyi-iot-devices-ggreg20_v3-uvijshov-u-perelik-prystroyiv-sumisnyh-z-tasmota/)
+
+>IoT-devices reports that the company’s GGreg20_V3 ionizing radiation detector module has been added to the official list of peripherals supported by Tasmota firmware with a corresponding reference to the driver repository.
+
+![Image](https://iot-devices.com.ua/wp-content/uploads/2022/01/ggreg20_v3_esp32_tasmota_supported_device_iot-deviceslogo-1024x683.png)
+
+
+## 12.01.2022
+### [EN: GGreg20_V3 was included in the list of top 100 Awesome Open Source Projects](https://iot-devices.com.ua/en/detektor-ionizuyuchogo-vyprominyuvannya-ggreg20_v3-repozytorij-prykladiv/)
+#### [UA: GGreg20_V3 потрапив до списку топ-100 Awesome Open Source Projects](https://iot-devices.com.ua/detektor-ionizuyuchogo-vyprominyuvannya-ggreg20_v3-repozytorij-prykladiv/)
+
+>The example repository for the GGreg20_V3 ionizing radiation detector module has been included in the list of the top-100 open source projects ESPHome / Home Assistant, curated by Awesome Open Source.
+
+![Image](https://iot-devices.com.ua/wp-content/uploads/2022/01/ggreg20_v3_githublogo_iot-deviceslogo-1024x683.png)
