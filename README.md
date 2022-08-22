@@ -185,3 +185,13 @@ The GGreg20_V3 radioactive particle detector with the SBM-20 is installed in Dor
 >Most IoT devices support the I2C interface as basic. Moreover, the support of the I2C bus is usually a decisive factor in the selection of chips in our projects. But any system has not only advantages. There are also shortcomings and hidden problems that we reveal in the publications.
 
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2021/09/ggreg20-1024x287.jpg)
+
+
+___
+
+
+## Our posts on verious platforms
+### [Instructables - EN: How to Add the GGreg20_V3 ThingSpeak Channel Geiger Counter Sensor to the Home Assistant Server](https://www.instructables.com/How-to-Add-the-GGreg20V3-ThingSpeak-Channel-Geiger/)
+### [HackerNoon - EN: Choosing the Best I2C chips: The Hidden Software Problem of Choosing Hardware Modules](https://hackernoon.com/choosing-the-best-i2c-chips-the-hidden-software-problem-of-choosing-hardware-modules)
+### [Medium - EN: Why we didn’t add the I2C interface to the GGreg20_V3 module](https://medium.com/@iotdevices/why-we-didnt-add-the-i2c-interface-to-the-ggreg20-v3-module-d3e7342b1b0f)
+### [Scribd - EN: White Paper - How To Choose The Right I2C Chips. or The Hidden Software Problem of Choosing Hardware Modules](https://www.scribd.com/document/576791460/White-paper-How-to-choose-the-right-I2C-chips-Or-the-hidden-software-problem-of-choosing-hardware-modules)
