@@ -187,6 +187,13 @@ The GGreg20_V3 radioactive particle detector with the SBM-20 is installed in Dor
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2021/09/ggreg20-1024x287.jpg)
 
 
+
+## 21.08.2021
+### [EN: Application of I2C bus interface splitter](https://iot-devices.com.ua/application-of-i2c-bus-interface-splitter/)
+
+>We have a main system controller and several devices with an I2C interface that need to be connected to it. The figure shows an approximate classic set of modules that may need to be connected to the main controller (MCU)...
+
+![Image](https://lh4.googleusercontent.com/bk6VniY2l1XGCshNTdINg7bLXGsn9VrVzNVTHzJRiDlegBBxchA_037bvRoV5FT3_x9jXymZ7YvfqJT8UV68Y8ewIxK2GpjF2i2jfgoY6gXbCTjnrw8C-xqDNxHZxcFVnnX45yu1)
 ___
 
 
