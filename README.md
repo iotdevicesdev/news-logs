@@ -219,3 +219,7 @@ ___
 #### [IoT-devices GGreg20_V3 module](https://www.esphome-devices.com/devices/IoT-devices-GGreg20-V3)
 ### Tasmota Supported Periferials:
 #### [GGreg20_V3 - Ionizing Radiation Detector - gpio (ESP32 only)](https://tasmota.github.io/docs/Supported-Peripherals/)
+### Platformio:
+#### [IoT-devices GGreg20_V3 Arduino Driver Library](https://registry.platformio.org/libraries/iotdevicesdev/GGreg20_V3)
+### LibHunt:
+#### [GGreg20-V3 Home Assistant ESPHome example](https://www.libhunt.com/r/ggreg20-v3-homeassistant-esphome-example)
