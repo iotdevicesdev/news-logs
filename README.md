@@ -5,6 +5,17 @@ Best Regards,
 
 IoT-devices Team
 
+## 05.09.2022
+### [EN: I2CHUB_V1 - Application of I2C bus interface splitter](https://cutt.ly/uCzzkxk)
+#### [UA: I2CHUB_V1 – застосування поділювача інтерфейсів на шині I2C](https://cutt.ly/lCzzU1W)
+
+>We have a main system controller and several devices with an I2C interface that need to be connected to it. Most microcontrollers (MCUs) are miniature devices and have a very limited budget for free I / O ports. Typically, on Arduino / ESP8266 / ESP32 / STM32 controllers, only one interface can be reserved for the I2C bus (even if there are two) – two GPIO ports for SDA and SCL signal channels...
+
+![Image](https://iot-devices.com.ua/wp-content/uploads/2022/09/i2chub-modules-connection-schemas_7_i2c-modules-example_branded.jpg)
+
+
+
+
 ## 18.08.2022
 ### [EN: The case 3d-model for the GGreg20_V3 module for personal use](https://iot-devices.com.ua/en/ggreg20v3-case-3d-model-for-personal-use/)
 #### [UA: 3д-модель кожуха модуля GGreg20_V3 для персонального використання](https://iot-devices.com.ua/ggreg20v3-case-3d-model-for-personal-use/)
@@ -187,13 +198,6 @@ The GGreg20_V3 radioactive particle detector with the SBM-20 is installed in Dor
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2021/09/ggreg20-1024x287.jpg)
 
 
-
-## 21.08.2021
-### [EN: Application of I2C bus interface splitter](https://iot-devices.com.ua/application-of-i2c-bus-interface-splitter/)
-
->We have a main system controller and several devices with an I2C interface that need to be connected to it. The figure shows an approximate classic set of modules that may need to be connected to the main controller (MCU)...
-
-![Image](https://lh4.googleusercontent.com/bk6VniY2l1XGCshNTdINg7bLXGsn9VrVzNVTHzJRiDlegBBxchA_037bvRoV5FT3_x9jXymZ7YvfqJT8UV68Y8ewIxK2GpjF2i2jfgoY6gXbCTjnrw8C-xqDNxHZxcFVnnX45yu1)
 ___
 
 
