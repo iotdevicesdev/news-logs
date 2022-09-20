@@ -15,6 +15,16 @@ IoT-devices Team
 
 
 
+## 15.09.2022
+### [EN: Connecting the GGreg20_V3 Radiation Sensor to the Home Assistant Server via ESP Home Integration](https://iot-devices.com.ua/en/connecting-ggreg20-radiation-sensor-to-home-assistant-server-via-esp-home-integration/)
+#### [UA: Підключення сенсора радіації GGreg20_V3 до сервера Home Assistant через інтеграцію ESP Home](https://iot-devices.com.ua/pidklyuchennya-sensora-radiacziyi-ggreg20_v3-do-servera-home-assistant-cherez-integracziyu-esp-home/)
+
+>We offer you the procedure of connecting the GGreg20 Geiger counter (sensor) in combination with the main controller ESP8266 or ESP32 to the Home Assistant server via the ESP Home plug-in...
+
+![Image](https://iot-devices.com.ua/wp-content/uploads/2021/07/image-1536x825.png)
+
+
+
 ## 05.09.2022
 ### [EN: I2CHUB_V1 - Application of I2C bus interface splitter](https://cutt.ly/uCzzkxk)
 #### [UA: I2CHUB_V1 – застосування поділювача інтерфейсів на шині I2C](https://cutt.ly/lCzzU1W)
