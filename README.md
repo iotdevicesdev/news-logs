@@ -5,6 +5,16 @@ Best Regards,
 
 IoT-devices Team
 
+## 19.09.2022
+### [EN: Geiger counter GGreg20_V3 – minor hardware changes in the module](https://iot-devices.com.ua/en/minor_hardware_changes_geiger_counter_ggreg20_v3_en/)
+#### [UA: Лічильник Гейгера GGreg20_V3 – незначні апаратні зміни в модулі](https://iot-devices.com.ua/minor_hardware_changes_geiger_counter_ggreg20_v3_ua/)
+
+>Please note that from September 1, 2022 , the function of high voltage regulation has been removed. The voltage level of 400 volts is fixed by hardware means....
+
+![Image](https://iot-devices.com.ua/wp-content/uploads/2022/09/minor_changes_ggreg20_v3_iot-deviceslogo_eng.png)
+
+
+
 ## 05.09.2022
 ### [EN: I2CHUB_V1 - Application of I2C bus interface splitter](https://cutt.ly/uCzzkxk)
 #### [UA: I2CHUB_V1 – застосування поділювача інтерфейсів на шині I2C](https://cutt.ly/lCzzU1W)
