@@ -5,6 +5,8 @@ Best Regards,
 
 IoT-devices Team
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg)](https://stand-with-ukraine.pp.ua)
+
 ## 19.09.2022
 ### [EN: Geiger counter GGreg20_V3 – minor hardware changes in the module](https://iot-devices.com.ua/en/minor_hardware_changes_geiger_counter_ggreg20_v3_en/)
 #### [UA: Лічильник Гейгера GGreg20_V3 – незначні апаратні зміни в модулі](https://iot-devices.com.ua/minor_hardware_changes_geiger_counter_ggreg20_v3_ua/)
