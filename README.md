@@ -7,6 +7,21 @@ IoT-devices Team
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg)](https://stand-with-ukraine.pp.ua)
 
+## 06.11.2022
+### [EN: They write about our GGreg20_v3 module on Twitter](https://iot-devices.com.ua/en/ggreg20_v3-twitter_en/)
+#### [UA: Про наш модуль GGreg20_v3 пишуть у Twitter](https://iot-devices.com.ua/ggreg20_v3-twitter/)
+
+>Our clients spoke about the features of using the GGreg20_v3 module. We are grateful for the high rating!
+
+![Image](https://pbs.twimg.com/media/FgxYstPWQAICwC9?format=jpg&name=900x900)
+
+## 15.10.2022
+### [EN: Youtube video of the next batch of GGreg20_V3 ionizing radiation Geiger counters](https://www.youtube.com/watch?v=lGIwdO35k1w&ab_channel=iot-devices)
+
+>The next batch of GGreg20_V3 ionizing radiation Geiger counters are being tested at the IoT-devices LLC laboratory in Kyiv
+
+![Image](https://i3.ytimg.com/vi/lGIwdO35k1w/maxresdefault.jpg)
+
 ## 19.09.2022
 ### [EN: Geiger counter GGreg20_V3 – minor hardware changes in the module](https://iot-devices.com.ua/en/minor_hardware_changes_geiger_counter_ggreg20_v3_en/)
 #### [UA: Лічильник Гейгера GGreg20_V3 – незначні апаратні зміни в модулі](https://iot-devices.com.ua/minor_hardware_changes_geiger_counter_ggreg20_v3_ua/)
