@@ -7,6 +7,15 @@ IoT-devices Team
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg)](https://stand-with-ukraine.pp.ua)
 
+## 06.12.2022
+### [EN: Geiger counter GGreg20_V3: maximum radiation that can be measured](https://iot-devices.com.ua/en/maximum-radiation-that-can-be-measured-by-geiger-counter-ggreg20_v3-en/)
+#### [UA: Лічильник Гейгера GGreg20_V3: максимальна радіація, що може бути виміряна](https://iot-devices.com.ua/maximum-radiation-that-can-be-measured-by-geiger-counter-ggreg20_v3/)
+
+>Sometimes readers and users ask questions about the ability of the GGreg20_V3 – Geiger counter module to measure the maximum power of ionizing radiation...
+
+![Image](https://iot-devices.com.ua/wp-content/uploads/2022/12/ggreg20_v3_coolpic_.jpg)
+
+
 ## 06.11.2022
 ### [EN: They write about our GGreg20_v3 module on Twitter](https://iot-devices.com.ua/en/ggreg20_v3-twitter_en/)
 #### [UA: Про наш модуль GGreg20_v3 пишуть у Twitter](https://iot-devices.com.ua/ggreg20_v3-twitter/)
