@@ -7,6 +7,15 @@ IoT-devices Team
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg)](https://stand-with-ukraine.pp.ua)
 
+## 21.12.2022
+### [EN: A new end-user IoT product series are now developed in our Kyiv Lab](https://iot-devices.com.ua/en/new-enduser-iot-product-series-are-now-developed-in-our-kyivlab-en/)
+#### [UA: У нашій Київській лабораторії зараз розробляється нова серія продуктів IoT для кінцевих користувачів](https://iot-devices.com.ua/maximum-radiation-that-can-be-measured-by-geiger-counter-ggreg20_v3/)
+
+>We are not revealing the new line of our devices yet, but we are already demonstrating how the firmware code is being developed....
+
+![Image](https://iot-devices.com.ua/wp-content/uploads/2022/12/newproductline_eng.png)
+
+
 ## 06.12.2022
 ### [EN: Geiger counter GGreg20_V3: maximum radiation that can be measured](https://iot-devices.com.ua/en/maximum-radiation-that-can-be-measured-by-geiger-counter-ggreg20_v3-en/)
 #### [UA: Лічильник Гейгера GGreg20_V3: максимальна радіація, що може бути виміряна](https://iot-devices.com.ua/maximum-radiation-that-can-be-measured-by-geiger-counter-ggreg20_v3/)
