@@ -7,9 +7,17 @@ IoT-devices Team
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg)](https://stand-with-ukraine.pp.ua)
 
+## 25.01.2023
+### [EN: GGReg20_V3 module: examples of interesting projects](https://iot-devices.com.ua/en/ggreg20_v3-module-examples-of-interesting-projects/)
+#### [UA: Модуль GGReg20_V3 : приклади цікавих проектів](https://iot-devices.com.ua/ggreg20_v3-module-examples-of-interesting-projects/)
+
+>Examples of interesting projects in which our clients have used the GGReg20_V3 module...
+
+![Image](https://iot-devices.com.ua/wp-content/uploads/2023/01/image.png)
+
 ## 21.12.2022
 ### [EN: A new end-user IoT product series are now developed in our Kyiv Lab](https://iot-devices.com.ua/en/new-enduser-iot-product-series-are-now-developed-in-our-kyivlab-en/)
-#### [UA: У нашій Київській лабораторії зараз розробляється нова серія продуктів IoT для кінцевих користувачів](https://iot-devices.com.ua/maximum-radiation-that-can-be-measured-by-geiger-counter-ggreg20_v3/)
+#### [UA: У нашій Київській лабораторії зараз розробляється нова серія продуктів IoT для кінцевих користувачів](https://iot-devices.com.ua/new-enduser-iot-product-series-are-now-developed-in-our-kyivlab/)
 
 >We are not revealing the new line of our devices yet, but we are already demonstrating how the firmware code is being developed....
 
