@@ -7,6 +7,15 @@ IoT-devices Team
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg)](https://stand-with-ukraine.pp.ua)
 
+## 26.02.2023
+### [EN: New YAML config for GGreg20_V3 and ESP32 with debouncing and input pulse port fine tuning on GitHub](https://iot-devices.com.ua/en/ggreg20-v3-esp32-homeassistant-esphome-yaml-config/)
+#### [UA: Новий YAML-конфіг для GGreg20_V3 та ESP32 з фільтрацією брязкоту та точними налаштуваннями порту вхідних імпульсів на GitHub](https://iot-devices.com.ua/ggreg20-v3-esp32-homeassistant-esphome-yaml-config-ua/)
+
+>We have recently made a new GitHub repository dedicated for GGreg20_V3 + generic ESP32 with pulse counter GPIO debounce in microseconds up to SBM20 GM tube’s deadtime...
+
+![Image](https://iot-devices.com.ua/wp-content/uploads/2023/02/ggreg20_v3_esp32_yaml_ha_esphome_eng.jpg)
+
+
 ## 25.01.2023
 ### [EN: GGReg20_V3 module: examples of interesting projects](https://iot-devices.com.ua/en/ggreg20_v3-module-examples-of-interesting-projects/)
 #### [UA: Модуль GGReg20_V3 : приклади цікавих проектів](https://iot-devices.com.ua/ggreg20_v3-module-examples-of-interesting-projects/)
