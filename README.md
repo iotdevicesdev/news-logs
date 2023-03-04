@@ -8,6 +8,14 @@ IoT-devices Team
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg)](https://stand-with-ukraine.pp.ua)
 
 ## 26.02.2023
+### [EN: Geiger counter GGreg20_V3: supply voltage range of the Geiger counter module (technical note)](https://iot-devices.com.ua/en/technical_note_supply_voltage_range_geiger_counter_ggreg20_v3/)
+#### [UA: Лічильник Гейгера GGreg20_V3 : діапазон напруги живлення модуля (технічна нотатка)](https://iot-devices.com.ua/technical_note_supply_voltage_range_geiger_counter_ggreg20_v3_ua/)
+
+>This module can operate in two modes. The Geiger counter module GGreg20_V3 has built-in protection against reverse polarity. This function is realized by means of a Schottky diode...
+
+![Image](https://lh3.googleusercontent.com/SVrhkvmYYKlYND3uD3Sw-vSwu2iDGJOuVGFFyaimAEhUBHio3fdpAMu6uzBu1eWk5RO7V0gj_fmktK4iQSZWWnoQyq0QKc0l-EujISOoddbJNc1sIGF1KthEAvdCsPYb5pXIoON4RqO8_yyQBGEhTGY)
+
+## 26.02.2023
 ### [EN: New YAML config for GGreg20_V3 and ESP32 with debouncing and input pulse port fine tuning on GitHub](https://iot-devices.com.ua/en/ggreg20-v3-esp32-homeassistant-esphome-yaml-config/)
 #### [UA: Новий YAML-конфіг для GGreg20_V3 та ESP32 з фільтрацією брязкоту та точними налаштуваннями порту вхідних імпульсів на GitHub](https://iot-devices.com.ua/ggreg20-v3-esp32-homeassistant-esphome-yaml-config-ua/)
 
