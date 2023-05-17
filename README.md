@@ -7,11 +7,20 @@ IoT-devices Team
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg)](https://stand-with-ukraine.pp.ua)
 
+## 29.03.2023
+### [EN: Geiger counter emulator of GGreg20_V3 module by means of ESP8266 Part 2 Building the Emulator](https://iot-devices.com.ua/en/geiger-counter-emulator-ggreg20_v3-module-by-means-of-esp8266-part2/)
+#### [Емулятор лічильника Гейгера GGreg20_V3 засобами ESP8266: Частина 2 Створення емулятора](https://iot-devices.com.ua/geiger-counter-emulator-ggreg20_v3-module-by-means-of-esp8266-part2-ua/)
+
+>Welcome to the second part of our tutorial on building a hardware-software Geiger counter emulator module based on ESP8266. This emulator can be useful for testing and tuning Geiger counters or for educational purposes. Let’s get started!...
+
+![Image](https://iot-devices.com.ua/wp-content/uploads/2023/03/gcemu20_v1_eng_press-release.png)
+
+
 ## 27.03.2023
 ### [EN: Geiger counter emulator of GGreg20_V3 module by means of ESP8266](https://iot-devices.com.ua/en/geiger-counter-emulator-ggreg20_v3-module-by-means-of-esp8266-part1/)
 #### [UA: Емулятор лічильника Гейгера GGreg20_V3 засобами ESP8266](https://iot-devices.com.ua/geiger-counter-emulator-ggreg20_v3-module-by-means-of-esp8266-part1-ua/)
 
->Welcome to our guide on building a hardware-software Geiger counter emulator of GGreg20_V3 module based on ESP8266 This emulator can be useful for testing and tuning Geiger counters or for educational purposes. Let’s get started!...
+>Welcome to our guide on building a hardware-software Geiger counter emulator of GGreg20_V3 module based on ESP8266. This emulator can be useful for testing and tuning Geiger counters or for educational purposes. Let’s get started!...
 
 ![Image](https://iot-devices.com.ua/wp-content/uploads/2023/03/gcemu20_v1_eng_press-release.png)
 
