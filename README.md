@@ -7,6 +7,71 @@ IoT-devices Team
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg)](https://stand-with-ukraine.pp.ua)
 
+## 18.07.2023
+### [EN: Our modules Radioactive particle detector GGreg20 on the GMCmap service map](https://iot-devices.com.ua/en/our-modules-ggreg20_v3-radioactive-particle-detector-on-the-gmcmap-com-service-map-en/)
+#### [Наші модулі Детектор радіоактивних частинок GGreg20 на карті сервісу GMCmap](https://iot-devices.com.ua/our-modules-ggreg20_v3-radioactive-particle-detector-on-the-gmcmap-com-service-map/)
+
+>Great news! Several more customers have connected to the gmcmap.com radiation detectors based on our GGreg20 radioactive particle detector module...
+
+![GGreg20_GMCmap](https://iot-devices.com.ua/wp-content/uploads/2023/07/gmcmap_diy_ggreg30_v3_lyon1_2023-07-16_164541-1536x960.jpg)
+
+## 17.07.2023
+### [EN: GGreg20_V3 with Raspberry Pi Pico W under Home Assistant with ESPHome firmware config example](https://iot-devices.com.ua/en/ggreg20_v3-with-raspberry-pi-pico-w-under-home-assistant-with-esphome-firmware-config-example-en/)
+#### [Приклад налаштування GGreg20_V3 на Raspberry Pi Pico W у Home Assistant з прошивкою ESPHome](https://iot-devices.com.ua/ggreg20_v3-with-raspberry-pi-pico-w-under-home-assistant-with-esphome-firmware-config-example/)
+
+>We’ve been planning to post a GGreg20_V3 configuration example for the Raspberry Pi Pico W since ESPHome started supporting this wonderful controller with wireless support. But after users started making projects for RPi with GGreg20_V3, and after Tom’s Hardware wrote about a project using Pico W...
+
+![GGreg20_V3_RPiPicoW_YAML_HA_ESPHome_ENG](https://iot-devices.com.ua/wp-content/uploads/2023/07/ggreg20_v3_rpipicow_yaml_ha_esphome_eng-1.jpg)
+
+## 24.05.2023
+### [EN: Product Repo - DIY Geiger Counter Module GGreg20_V3](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3)
+
+>We have created a "root" repository for the Geiger counter module GGreg20_V3. This is a special place where we will post and keep up-to-date all about this product....
+
+![DIY GGreg20_v3 product repo](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3/raw/main/DIY_Geiger_counter_GGreg20_V3_repo_GitHub_ENG.jpg)
+
+
+## 5.05.2023
+### [EN: Geiger-Muller tubes: Comparison of SBM20, J305 and LND712](https://iot-devices.com.ua/en/comparison-of-geiger-muller-tubes-sbm20-j305-and-lnd712/)
+#### [Трубки Гейгера-Мюллера: порівняння SBM20, J305 та LND712](https://iot-devices.com.ua/comparison-of-geiger-muller-tubes-sbm20-j305-and-lnd712/)
+
+>We understand very well the difficulties of choosing for radio amateurs who have to choose between different options, including tubes, when ordering a product. When we developed GGreg20 in 2020, we did not know anything about these things at all. Now we can share our company’s experience with anyone who needs help or is just looking for more information...
+
+![SBM20_J305_compare](https://github.com/iotdevicesdev/news-logs/assets/96241971/04e6b765-4fbb-4579-ad7b-4daee6717797)
+
+## 12.04.2023
+### [EN: Technical note: How to calculate the conversion factor for Geiger tube SBM20](https://iot-devices.com.ua/en/technical-note-how-to-calculate-the-conversion-factor-for-geiger-tube-sbm20/)
+#### [Технічна нотатка: Як розрахувати коефіцієнт перетворення для трубки Гейгера СБМ20](https://iot-devices.com.ua/technical-note-how-to-calculate-the-conversion-factor-for-geiger-tube-sbm20/)
+
+>The main goal of this publication is to correctly calculate and, if possible, understand where the conversion factors such as 8.77 and 0.0057 for the SBM20 tube, which are all published on the Internet, come from....
+
+![GGreg20_V3_SBM20_conversion_factor](https://github.com/iotdevicesdev/news-logs/assets/96241971/e7584fb6-21eb-46aa-8eae-bd487c40db7b)
+
+## 11.04.2023
+### [EN: UV test of Geiger tubes J305](https://iot-devices.com.ua/en/uv-test-of-the-j305-geiger-tubes/)
+#### [УФ тест трубок Гейгера J305](https://iot-devices.com.ua/uv-test-of-the-j305-geiger-tubes/)
+
+>There are videos on the Internet showing that J305 tubes are very sensitive to UV rays. They literally go crazy under the influence of this type of radiation. We conducted our own quick UV test of Geiger tubes J305...
+
+![image](https://github.com/iotdevicesdev/news-logs/assets/96241971/36104faa-e528-4c86-b3d6-ba7a71474df7)
+
+
+## 1.04.2023
+### [EN: Technical note: Geiger counter at low temperatures – the work of a DIY module](https://iot-devices.com.ua/en/technical_note_performance_of_diy_geiger_counter_ggreg20_v3_at_low_-temperatures/)
+#### [Технічна нотатка: Лічильник Гейгера при низьких температурах – робота DIY модуля](https://iot-devices.com.ua/technical_note_performance_of_diy_geiger_counter_ggreg20_v3_at_low_-temperatures_ua/)
+
+>We wondered what would happen if we took our DIY Geiger counter module GGreg20_V3 and put it in a freezer with a target temperature of -23 Celsius together with the ESP32 controller. Will our sensor work at such a low temperature? Will we see any failures or deviations in the radiation sensor measurements?...
+
+![Image](https://iot-devices.com.ua/wp-content/uploads/2023/04/ggreg20_v3_freezer_test.jpg)
+
+## 31.03.2023
+### [EN: Geiger counter emulator of GGreg20_V3 module by means of ESP8266 Part 3: Testing and Conclusion](https://iot-devices.com.ua/en/geiger-counter-emulator-ggreg20_v3-module-by-means-of-esp8266-part3/)
+#### [Емулятор лічильника Гейгера GGreg20_V3 засобами ESP8266 Частина 3: Тестування та висновок](https://iot-devices.com.ua/geiger-counter-emulator-ggreg20_v3-module-by-means-of-esp8266-part3-ua/)
+
+>After we’ve built the emulator and programmed the ESP8266, we can test it to make sure it’s working correctly....
+
+![Image](https://iot-devices.com.ua/wp-content/uploads/2023/03/gcemu20_v1_eng_press-release.png)
+
 ## 29.03.2023
 ### [EN: Geiger counter emulator of GGreg20_V3 module by means of ESP8266 Part 2 Building the Emulator](https://iot-devices.com.ua/en/geiger-counter-emulator-ggreg20_v3-module-by-means-of-esp8266-part2/)
 #### [Емулятор лічильника Гейгера GGreg20_V3 засобами ESP8266: Частина 2 Створення емулятора](https://iot-devices.com.ua/geiger-counter-emulator-ggreg20_v3-module-by-means-of-esp8266-part2-ua/)
