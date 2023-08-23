@@ -7,6 +7,14 @@ IoT-devices Team
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg)](https://stand-with-ukraine.pp.ua)
 
+## 16.08.2023
+### [EN: GGreg20_V3 and ESP12.OLED_V1 in the project of KPI specialists](https://iot-devices.com.ua/en/ggreg20_v3-esp12-oled_v1-kpi-project/)
+#### [GGreg20_V3 та ESP12.OLED_V1 у проєкті фахівців КПІ](https://iot-devices.com.ua/ggreg20_v3-esp12-oled_v1-kpi-project/)
+
+>An interesting work by experts from the Kyiv Polytechnic Institute describes software methods for analyzing streaming data, in particular, for analyzing radiation pollution...
+
+![GGreg20_ESP12OLED](https://iot-devices.com.ua/wp-content/uploads/2022/07/foto1-esp12oled-esp8266-ggreg20v3-1024x768.jpg)
+
 ## 18.07.2023
 ### [EN: Our modules Radioactive particle detector GGreg20 on the GMCmap service map](https://iot-devices.com.ua/en/our-modules-ggreg20_v3-radioactive-particle-detector-on-the-gmcmap-com-service-map-en/)
 #### [Наші модулі Детектор радіоактивних частинок GGreg20 на карті сервісу GMCmap](https://iot-devices.com.ua/our-modules-ggreg20_v3-radioactive-particle-detector-on-the-gmcmap-com-service-map/)
