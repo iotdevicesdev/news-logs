@@ -7,6 +7,23 @@ IoT-devices Team
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg)](https://stand-with-ukraine.pp.ua)
 
+___
+
+# Easy Links
+Product links that are easy to remember:
+
+| IoT Module | Easy Link |
+| ------ | --------- |
+| Universal ESP8266 MCU board with 0.96″ I2C 128×64 OLED and RGB LED | [go.iot-devices.com.ua/esp8266-mcu-board](https://go.iot-devices.com.ua/esp8266-mcu-board) |
+| MCP23017 I2C user interface 5-key keypad module with RGB LED and Buzzer and GPIOs | [go.iot-devices.com.ua/i2c-keypad](https://go.iot-devices.com.ua/i2c-keypad) |
+| Geiger counter radiation detector with pulsed output | [go.iot-devices.com.ua/geiger-counter](https://go.iot-devices.com.ua/geiger-counter) |
+| Geiger counter emulator | [go.iot-devices.com.ua/geiger-counter-emulator](https://go.iot-devices.com.ua/geiger-counter-emulator) |
+| High voltage converter | [go.iot-devices.com.ua/high-voltage-converter](https://go.iot-devices.com.ua/high-voltage-converter) |
+| I2C bus interface splitter | [go.iot-devices.com.ua/i2c-hub](https://go.iot-devices.com.ua/i2c-hub) |
+| Smart power supply unit for IoT projects (discontinued) | [go.iot-devices.com.ua/smart-power-supply](https://go.iot-devices.com.ua/smart-power-supply) |
+
+View the full list of easy links on our [website](https://iot-devices.com.ua/easy-links/)
+
 ## 16.08.2023
 ### [EN: GGreg20_V3 and ESP12.OLED_V1 in the project of KPI specialists](https://iot-devices.com.ua/en/ggreg20_v3-esp12-oled_v1-kpi-project/)
 #### [GGreg20_V3 та ESP12.OLED_V1 у проєкті фахівців КПІ](https://iot-devices.com.ua/ggreg20_v3-esp12-oled_v1-kpi-project/)
