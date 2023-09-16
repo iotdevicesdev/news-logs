@@ -408,6 +408,13 @@ The GGreg20_V3 radioactive particle detector with the SBM-20 is installed in Dor
 ___
 
 
+## Crunchbase Hub
+### [List of top Europe Embedded Systems Companies](https://www.crunchbase.com/hub/europe-embedded-systems-companies/hub_overview_default/timeline)
+### [List of top Kyiv Companies](https://www.crunchbase.com/hub/kyiv-companies/hub_overview_default/timeline)
+### [List of top DIY Companies](https://www.crunchbase.com/hub/diy-companies/hub_overview_default/timeline)
+### [List of top Europe Smart Home Companies](https://www.crunchbase.com/hub/europe-smart-home-companies/hub_overview_default/timeline)
+### [List of top Electronics Companies With Fewer Than 10 Employees](https://www.crunchbase.com/hub/electronics-companies-fewer-than-10-employees/hub_overview_default/timeline)
+
 ## Our posts on verious platforms
 ### [Instructables - EN: How to Add the GGreg20_V3 ThingSpeak Channel Geiger Counter Sensor to the Home Assistant Server](https://www.instructables.com/How-to-Add-the-GGreg20V3-ThingSpeak-Channel-Geiger/)
 ### [HackerNoon - EN: Choosing the Best I2C chips: The Hidden Software Problem of Choosing Hardware Modules](https://hackernoon.com/choosing-the-best-i2c-chips-the-hidden-software-problem-of-choosing-hardware-modules)
