@@ -13,28 +13,49 @@ ___
 
 ```mermaid
 graph TD
-  PS4IoT_V1-->ESP12.OLED_V1
-  ESP12.OLED_V1-->I2CHUB_V1_1
-  ESP12.OLED_V1-->I2CUI4_V1_1
-  I2CUI4_V1_1-->I2CHUB_V1_2
-  I2CHUB_V1_1-->I2CUI4_V1_2
-  I2CHUB_V1_1-->I2CUI4_V1_3
-  ESP12.OLED_V1-->GGreg20_V3_1
-  ESP12.OLED_V1-->GGreg20_V3_2
-  click PS4IoT_V1 href "https://go.iot-devices.com.ua/esp8266-mcu-board" "gggg"
+  PS4IoT_V1_1 -- 3V3 --> ESP12.OLED_V1
+  ESP12.OLED_V1 -- I2C bus --> I2CHUB_V1_1
+  ESP12.OLED_V1 -- I2C bus --> I2CUI4_V1_1
+  I2CUI4_V1_1 -- I2C bus --> I2CHUB_V1_2
+  I2CHUB_V1_1 -- I2C bus --> I2CUI4_V1_2
+  I2CHUB_V1_1 -- I2C bus --> I2CUI4_V1_3
+  ESP12.OLED_V1 -- GPIO ISR --> GGreg20_V3_1
+  ESP12.OLED_V1 -- GPIO ISR --> GGreg20_V3_2
+  ESP12.OLED_V1 -- GPIO ISR & UART --> GCemu20_V1
+  PS4IoT_V1_2 -- 5V --> DCDC_3V3_400V_V1
+
+  click PS4IoT_V1_1 href "https://iot-devices.com.ua/en/product/ps4iot-smart-power-module/" "Smart Power Supply - PS4IoT_V1 #1"
+  click PS4IoT_V1_2 href "https://iot-devices.com.ua/en/product/ps4iot-smart-power-module/" "Smart Power Supply - PS4IoT_V1 #2"
+
+  click ESP12.OLED_V1 href "https://iot-devices.com.ua/en/product/esp12oled-universal-esp8266-mcuboard-oled-en/" "ESP8266 MCU board - ESP12.OLED_V1"
+
+  click I2CUI4_V1_1 href "https://iot-devices.com.ua/en/product/i2cui4v1-user-interface-i2c-module-with-5keys-keypad-rgb-led-buzzer/" "MCP23017 I2C user interface 5-key keypad - I2CUI4_V1 #1"
+  click I2CUI4_V1_2 href "https://iot-devices.com.ua/en/product/i2cui4v1-user-interface-i2c-module-with-5keys-keypad-rgb-led-buzzer/" "MCP23017 I2C user interface 5-key keypad - I2CUI4_V1 #2"
+  click I2CUI4_V1_3 href "https://iot-devices.com.ua/en/product/i2cui4v1-user-interface-i2c-module-with-5keys-keypad-rgb-led-buzzer/" "MCP23017 I2C user interface 5-key keypad - I2CUI4_V1 #3"
+
+  click GGreg20_V3_1 href "https://iot-devices.com.ua/en/product/ggreg20_v3-ionizing-radiation-detector-with-geiger-tube-sbm-20/" "Geiger counter radiation detector - GGreg20_V3 #1"
+  click GGreg20_V3_2 href "https://iot-devices.com.ua/en/product/ggreg20_v3-ionizing-radiation-detector-with-geiger-tube-sbm-20/" "Geiger counter radiation detector - GGreg20_V3 #2"
+
+  click GCemu20_V1 href "https://iot-devices.com.ua/en/product/gcemu20_v1-geiger-counter-emulator/" "Geiger counter emulator - GCemu20_V1"
+
+  click I2CHUB_V1_1 href "https://iot-devices.com.ua/en/product/i2chub-v1-module-i2c-bus-interfaces-splitter/" "I2C bus interface splitter - I2CHUB_V1 #1"
+  click I2CHUB_V1_2 href "https://iot-devices.com.ua/en/product/i2chub-v1-module-i2c-bus-interfaces-splitter/" "I2C bus interface splitter - I2CHUB_V1 #2"
+
+  click DCDC_3V3_400V_V1 href "https://iot-devices.com.ua/en/product/peretvoruvach-naprugy-postijnogo-strumu-dcdc_3v3_400v_v1-3-3-vv-naprugu-400-v-dlya-zhyvlennya-trubky-gejgera-myullera/" "High voltage converter - DCDC_3V3_400V_V1"
+
 ```
 
 Product links that are easy to remember:
 
-| IoT Module | Easy Link |
-| ------ | --------- |
-| Universal ESP8266 MCU board with 0.96″ I2C 128×64 OLED and RGB LED | [go.iot-devices.com.ua/esp8266-mcu-board](https://go.iot-devices.com.ua/esp8266-mcu-board) |
-| MCP23017 I2C user interface 5-key keypad module with RGB LED and Buzzer and GPIOs | [go.iot-devices.com.ua/i2c-keypad](https://go.iot-devices.com.ua/i2c-keypad) |
-| Geiger counter radiation detector with pulsed output | [go.iot-devices.com.ua/geiger-counter](https://go.iot-devices.com.ua/geiger-counter) |
-| Geiger counter emulator | [go.iot-devices.com.ua/geiger-counter-emulator](https://go.iot-devices.com.ua/geiger-counter-emulator) |
-| High voltage converter | [go.iot-devices.com.ua/high-voltage-converter](https://go.iot-devices.com.ua/high-voltage-converter) |
-| I2C bus interface splitter | [go.iot-devices.com.ua/i2c-hub](https://go.iot-devices.com.ua/i2c-hub) |
-| Smart power supply unit for IoT projects (discontinued) | [go.iot-devices.com.ua/smart-power-supply](https://go.iot-devices.com.ua/smart-power-supply) |
+| IoT Module | Description | Easy Link |
+| -- | ------ | --------- |
+| [ESP12.OLED_V1](https://iot-devices.com.ua/en/product/esp12oled-universal-esp8266-mcuboard-oled-en/) | Universal ESP8266 MCU board with 0.96″ I2C 128×64 OLED and RGB LED | [go.iot-devices.com.ua/esp8266-mcu-board](https://go.iot-devices.com.ua/esp8266-mcu-board) |
+| [I2CUI4_V1](https://iot-devices.com.ua/en/product/i2cui4v1-user-interface-i2c-module-with-5keys-keypad-rgb-led-buzzer/) | MCP23017 I2C user interface 5-key keypad module with RGB LED and Buzzer and GPIOs | [go.iot-devices.com.ua/i2c-keypad](https://go.iot-devices.com.ua/i2c-keypad) |
+| [GGreg20_V3](https://iot-devices.com.ua/en/product/ggreg20_v3-ionizing-radiation-detector-with-geiger-tube-sbm-20/) | Geiger counter radiation detector with pulsed output | [go.iot-devices.com.ua/geiger-counter](https://go.iot-devices.com.ua/geiger-counter) |
+| [GCemu20_V1](https://iot-devices.com.ua/en/product/gcemu20_v1-geiger-counter-emulator/) | Geiger counter emulator | [go.iot-devices.com.ua/geiger-counter-emulator](https://go.iot-devices.com.ua/geiger-counter-emulator) |
+| [DCDC_3V3_400V_V1](https://iot-devices.com.ua/en/product/peretvoruvach-naprugy-postijnogo-strumu-dcdc_3v3_400v_v1-3-3-vv-naprugu-400-v-dlya-zhyvlennya-trubky-gejgera-myullera/) | High voltage converter | [go.iot-devices.com.ua/high-voltage-converter](https://go.iot-devices.com.ua/high-voltage-converter) |
+| [I2CHUB_V1](https://iot-devices.com.ua/en/product/i2chub-v1-module-i2c-bus-interfaces-splitter/) | I2C bus interface splitter | [go.iot-devices.com.ua/i2c-hub](https://go.iot-devices.com.ua/i2c-hub) |
+| [PS4IoT_V1](https://iot-devices.com.ua/en/product/ps4iot-smart-power-module/) | Smart power supply unit for IoT projects (discontinued) | [go.iot-devices.com.ua/smart-power-supply](https://go.iot-devices.com.ua/smart-power-supply) |
 
 View the full list of easy links on our [website](https://iot-devices.com.ua/easy-links/)
 
