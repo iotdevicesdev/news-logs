@@ -10,6 +10,20 @@ IoT-devices Team
 ___
 
 # Easy Links
+
+```mermaid
+graph TD
+  PS4IoT_V1-->ESP12.OLED_V1
+  ESP12.OLED_V1-->I2CHUB_V1_1
+  ESP12.OLED_V1-->I2CUI4_V1_1
+  I2CUI4_V1_1-->I2CHUB_V1_2
+  I2CHUB_V1_1-->I2CUI4_V1_2
+  I2CHUB_V1_1-->I2CUI4_V1_3
+  ESP12.OLED_V1-->GGreg20_V3_1
+  ESP12.OLED_V1-->GGreg20_V3_2
+  click PS4IoT_V1 href "https://go.iot-devices.com.ua/esp8266-mcu-board" "gggg"
+```
+
 Product links that are easy to remember:
 
 | IoT Module | Easy Link |
