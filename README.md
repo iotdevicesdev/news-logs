@@ -22,7 +22,7 @@ graph TD
   ESP12.OLED_V1 -- GPIO ISR --> GGreg20_V3_1
   ESP12.OLED_V1 -- GPIO ISR --> GGreg20_V3_2
   ESP12.OLED_V1 -- GPIO ISR & UART --> GCemu20_V1
-  PS4IoT_V1_2 -- 5V --> DCDC_3V3_400V_V1
+  PS4IoT_V1_2 -- 3V3 --> DCDC_3V3_400V_V1
 
   click PS4IoT_V1_1 href "https://iot-devices.com.ua/en/product/ps4iot-smart-power-module/" "Smart Power Supply - PS4IoT_V1 #1"
   click PS4IoT_V1_2 href "https://iot-devices.com.ua/en/product/ps4iot-smart-power-module/" "Smart Power Supply - PS4IoT_V1 #2"
