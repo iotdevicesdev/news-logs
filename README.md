@@ -409,6 +409,7 @@ ___
 
 
 ## Crunchbase Hub
+### [IoT-devices, LLC Profile](https://www.crunchbase.com/organization/iot-devices-llc)
 ### [List of top Europe Embedded Systems Companies](https://www.crunchbase.com/hub/europe-embedded-systems-companies/hub_overview_default/timeline)
 ### [List of top Kyiv Companies](https://www.crunchbase.com/hub/kyiv-companies/hub_overview_default/timeline)
 ### [List of top DIY Companies](https://www.crunchbase.com/hub/diy-companies/hub_overview_default/timeline)
