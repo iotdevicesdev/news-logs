@@ -24,24 +24,24 @@ graph TD
   ESP12.OLED_V1 -- GPIO ISR & UART --> GCemu20_V1
   PS4IoT_V1_2 -- 3V3 --> DCDC_3V3_400V_V1
 
-  click PS4IoT_V1_1 href "https://iot-devices.com.ua/en/product/ps4iot-smart-power-module/" "Smart Power Supply - PS4IoT_V1 #1"
-  click PS4IoT_V1_2 href "https://iot-devices.com.ua/en/product/ps4iot-smart-power-module/" "Smart Power Supply - PS4IoT_V1 #2"
+  click PS4IoT_V1_1 href "https://iot-devices.com.ua/en/product/ps4iot-smart-power-module/" "Smart Power Supply - PS4IoT_V1 #1" _blank
+  click PS4IoT_V1_2 href "https://iot-devices.com.ua/en/product/ps4iot-smart-power-module/" "Smart Power Supply - PS4IoT_V1 #2" _blank
 
-  click ESP12.OLED_V1 href "https://iot-devices.com.ua/en/product/esp12oled-universal-esp8266-mcuboard-oled-en/" "ESP8266 MCU board - ESP12.OLED_V1"
+  click ESP12.OLED_V1 href "https://iot-devices.com.ua/en/product/esp12oled-universal-esp8266-mcuboard-oled-en/" "ESP8266 MCU board - ESP12.OLED_V1" _blank
 
-  click I2CUI4_V1_1 href "https://iot-devices.com.ua/en/product/i2cui4v1-user-interface-i2c-module-with-5keys-keypad-rgb-led-buzzer/" "MCP23017 I2C user interface 5-key keypad - I2CUI4_V1 #1"
-  click I2CUI4_V1_2 href "https://iot-devices.com.ua/en/product/i2cui4v1-user-interface-i2c-module-with-5keys-keypad-rgb-led-buzzer/" "MCP23017 I2C user interface 5-key keypad - I2CUI4_V1 #2"
-  click I2CUI4_V1_3 href "https://iot-devices.com.ua/en/product/i2cui4v1-user-interface-i2c-module-with-5keys-keypad-rgb-led-buzzer/" "MCP23017 I2C user interface 5-key keypad - I2CUI4_V1 #3"
+  click I2CUI4_V1_1 href "https://iot-devices.com.ua/en/product/i2cui4v1-user-interface-i2c-module-with-5keys-keypad-rgb-led-buzzer/" "MCP23017 I2C user interface 5-key keypad - I2CUI4_V1 #1" _blank
+  click I2CUI4_V1_2 href "https://iot-devices.com.ua/en/product/i2cui4v1-user-interface-i2c-module-with-5keys-keypad-rgb-led-buzzer/" "MCP23017 I2C user interface 5-key keypad - I2CUI4_V1 #2" _blank
+  click I2CUI4_V1_3 href "https://iot-devices.com.ua/en/product/i2cui4v1-user-interface-i2c-module-with-5keys-keypad-rgb-led-buzzer/" "MCP23017 I2C user interface 5-key keypad - I2CUI4_V1 #3" _blank
 
-  click GGreg20_V3_1 href "https://iot-devices.com.ua/en/product/ggreg20_v3-ionizing-radiation-detector-with-geiger-tube-sbm-20/" "Geiger counter radiation detector - GGreg20_V3 #1"
-  click GGreg20_V3_2 href "https://iot-devices.com.ua/en/product/ggreg20_v3-ionizing-radiation-detector-with-geiger-tube-sbm-20/" "Geiger counter radiation detector - GGreg20_V3 #2"
+  click GGreg20_V3_1 href "https://iot-devices.com.ua/en/product/ggreg20_v3-ionizing-radiation-detector-with-geiger-tube-sbm-20/" "Geiger counter radiation detector - GGreg20_V3 #1" _blank
+  click GGreg20_V3_2 href "https://iot-devices.com.ua/en/product/ggreg20_v3-ionizing-radiation-detector-with-geiger-tube-sbm-20/" "Geiger counter radiation detector - GGreg20_V3 #2" _blank
 
-  click GCemu20_V1 href "https://iot-devices.com.ua/en/product/gcemu20_v1-geiger-counter-emulator/" "Geiger counter emulator - GCemu20_V1"
+  click GCemu20_V1 href "https://iot-devices.com.ua/en/product/gcemu20_v1-geiger-counter-emulator/" "Geiger counter emulator - GCemu20_V1" _blank
 
-  click I2CHUB_V1_1 href "https://iot-devices.com.ua/en/product/i2chub-v1-module-i2c-bus-interfaces-splitter/" "I2C bus interface splitter - I2CHUB_V1 #1"
-  click I2CHUB_V1_2 href "https://iot-devices.com.ua/en/product/i2chub-v1-module-i2c-bus-interfaces-splitter/" "I2C bus interface splitter - I2CHUB_V1 #2"
+  click I2CHUB_V1_1 href "https://iot-devices.com.ua/en/product/i2chub-v1-module-i2c-bus-interfaces-splitter/" "I2C bus interface splitter - I2CHUB_V1 #1" _blank
+  click I2CHUB_V1_2 href "https://iot-devices.com.ua/en/product/i2chub-v1-module-i2c-bus-interfaces-splitter/" "I2C bus interface splitter - I2CHUB_V1 #2" _blank
 
-  click DCDC_3V3_400V_V1 href "https://iot-devices.com.ua/en/product/peretvoruvach-naprugy-postijnogo-strumu-dcdc_3v3_400v_v1-3-3-vv-naprugu-400-v-dlya-zhyvlennya-trubky-gejgera-myullera/" "High voltage converter - DCDC_3V3_400V_V1"
+  click DCDC_3V3_400V_V1 href "https://iot-devices.com.ua/en/product/peretvoruvach-naprugy-postijnogo-strumu-dcdc_3v3_400v_v1-3-3-vv-naprugu-400-v-dlya-zhyvlennya-trubky-gejgera-myullera/" "High voltage converter - DCDC_3V3_400V_V1" _blank
 
 ```
 
