@@ -10,7 +10,7 @@ IoT-devices Team
 ___
 
 # Easy Links
-
+Note: the nodes in the diagram are links that can be opened by right-clicking.
 ```mermaid
 graph TD
   PS4IoT_V1_1 -- 3V3 --> ESP12.OLED_V1
@@ -57,7 +57,7 @@ Product links that are easy to remember:
 | [I2CHUB_V1](https://iot-devices.com.ua/en/product/i2chub-v1-module-i2c-bus-interfaces-splitter/) | I2C bus interface splitter | [go.iot-devices.com.ua/i2c-hub](https://go.iot-devices.com.ua/i2c-hub) |
 | [PS4IoT_V1](https://iot-devices.com.ua/en/product/ps4iot-smart-power-module/) | Smart power supply unit for IoT projects (discontinued) | [go.iot-devices.com.ua/smart-power-supply](https://go.iot-devices.com.ua/smart-power-supply) |
 
-View the full list of easy links on our [website](https://iot-devices.com.ua/easy-links/)
+View the full list of easy links on our [website](https://iot-devices.com.ua/easy-links/).
 
 ## 16.08.2023
 ### [EN: GGreg20_V3 and ESP12.OLED_V1 in the project of KPI specialists](https://iot-devices.com.ua/en/ggreg20_v3-esp12-oled_v1-kpi-project/)
