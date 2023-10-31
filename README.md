@@ -59,6 +59,14 @@ Product links that are easy to remember:
 
 View the full list of easy links on our [website](https://iot-devices.com.ua/easy-links/).
 
+## 28.10.2023
+### [EN: GGreg20_ES – souvenir Geiger counter](https://iot-devices.com.ua/en/ggreg20-geiger-counter-epoxy-souvenir/)
+#### [GGreg20_ES – сувенірний лічильник Гейгера](https://iot-devices.com.ua/ggreg20_v3-esp12-oled_v1-kpi-project/)
+
+>As participants in the DIY IoT market, we see that the same faulty or exhausted SBM-20 Geiger tubes are resold from hand to hand several times, because no one wants to lose potential profits...
+
+![GGreg20_ES](https://iot-devices.com.ua/wp-content/uploads/2023/10/ggreg20_es_photo8951-1536x1152.jpg)
+
 ## 16.08.2023
 ### [EN: GGreg20_V3 and ESP12.OLED_V1 in the project of KPI specialists](https://iot-devices.com.ua/en/ggreg20_v3-esp12-oled_v1-kpi-project/)
 #### [GGreg20_V3 та ESP12.OLED_V1 у проєкті фахівців КПІ](https://iot-devices.com.ua/ggreg20_v3-esp12-oled_v1-kpi-project/)
