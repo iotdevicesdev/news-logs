@@ -9,6 +9,23 @@ IoT-devices Team
 
 ___
 
+# IF BlackFriday() OR CyberMonday() THEN Sale(%);
+Cyber Monday until 30.11!
+![BlackFriday_CyberMonday_Allproducts_BlackBgr](https://github.com/iotdevicesdev/news-logs/assets/96241971/e7ce8f95-19a5-4d5c-be27-7db67cdb8650)
+
+We launch “Cyber Monday” 2023 campaign from 24.11 to 30.11 and set **10% discount when buying any of our modules** on [iot-devices.com.ua](https://iot-devices.com.ua/en) and [Tindie](https://www.tindie.com/stores/iotdev/) and [Etsy](https://iotdevicesllc.etsy.com) trading platforms.
+
+Pay attention to our new charity product [GGreg20_ES](https://go.iot-devices.com.ua/ggreg20_es)
+
+As well as our popular modules:
+
+GGreg20_V3 radioactive particle detector with J305 Geiger tube: ggreg20_v3 
+DCDC_3V3_400V_V1 module is a high voltage 3.3V DC to 400V converter: dcdc_3v3_400v_v1.
+I2CUI4_V1 User Interface – I2C module with 5-button keypad: i2cui4_v1
+
+Source:
+https://iot-devices.com.ua/en/cyber-monday-promotion-till-30-11-en/
+
 # Easy Links
 Note: the nodes in the diagram are links that can be opened by right-clicking.
 ```mermaid
