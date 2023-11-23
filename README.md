@@ -53,11 +53,25 @@ Product links that are easy to remember:
 | [I2CUI4_V1](https://iot-devices.com.ua/en/product/i2cui4v1-user-interface-i2c-module-with-5keys-keypad-rgb-led-buzzer/) | MCP23017 I2C user interface 5-key keypad module with RGB LED and Buzzer and GPIOs | [go.iot-devices.com.ua/i2c-keypad](https://go.iot-devices.com.ua/i2c-keypad) |
 | [GGreg20_V3](https://iot-devices.com.ua/en/product/ggreg20_v3-ionizing-radiation-detector-with-geiger-tube-sbm-20/) | Geiger counter radiation detector with pulsed output | [go.iot-devices.com.ua/geiger-counter](https://go.iot-devices.com.ua/geiger-counter) |
 | [GCemu20_V1](https://iot-devices.com.ua/en/product/gcemu20_v1-geiger-counter-emulator/) | Geiger counter emulator | [go.iot-devices.com.ua/geiger-counter-emulator](https://go.iot-devices.com.ua/geiger-counter-emulator) |
+| [GGreg20_ES](https://iot-devices.com.ua/en/product/ggreg20-geiger-counter-epoxy-souvenir/) | Epoxy souvenir Geiger counter | [go.iot-devices.com.ua/souvenir-geiger-counter](https://go.iot-devices.com.ua/souvenir-geiger-counter) |
 | [DCDC_3V3_400V_V1](https://iot-devices.com.ua/en/product/peretvoruvach-naprugy-postijnogo-strumu-dcdc_3v3_400v_v1-3-3-vv-naprugu-400-v-dlya-zhyvlennya-trubky-gejgera-myullera/) | High voltage converter | [go.iot-devices.com.ua/high-voltage-converter](https://go.iot-devices.com.ua/high-voltage-converter) |
 | [I2CHUB_V1](https://iot-devices.com.ua/en/product/i2chub-v1-module-i2c-bus-interfaces-splitter/) | I2C bus interface splitter | [go.iot-devices.com.ua/i2c-hub](https://go.iot-devices.com.ua/i2c-hub) |
 | [PS4IoT_V1](https://iot-devices.com.ua/en/product/ps4iot-smart-power-module/) | Smart power supply unit for IoT projects (*discontinued*) | [go.iot-devices.com.ua/smart-power-supply](https://go.iot-devices.com.ua/smart-power-supply) |
 
 View the full list of easy links on our [website](https://iot-devices.com.ua/easy-links/).
+
+## Availability by marketplace
+
+| Product | Website | Tindie | Etsy |
+| -- | ------ | --------- | ------ |
+| [ESP12.OLED_V1](https://iot-devices.com.ua/en/product/esp12oled-universal-esp8266-mcuboard-oled-en/) | [Link](https://go.iot-devices.com.ua/esp12_oled_v1) | [Link](https://go.iot-devices.com.ua/esp12_oled_v1_tindie) | |
+| [I2CUI4_V1](https://iot-devices.com.ua/en/product/i2cui4v1-user-interface-i2c-module-with-5keys-keypad-rgb-led-buzzer/) | [Link](https://go.iot-devices.com.ua/i2cui4_v1) | [Link](https://go.iot-devices.com.ua/i2cui4_v1_tindie) | |
+| [GGreg20_V3](https://iot-devices.com.ua/en/product/ggreg20_v3-ionizing-radiation-detector-with-geiger-tube-sbm-20/) | [Link](https://go.iot-devices.com.ua/ggreg20_v3) | [Link](https://go.iot-devices.com.ua/ggreg20_v3_tindie) | [Link](https://go.iot-devices.com.ua/ggreg20_v3_etsy) |
+| [GCemu20_V1](https://iot-devices.com.ua/en/product/gcemu20_v1-geiger-counter-emulator/) | [Link](https://go.iot-devices.com.ua/gcemu20_v1) | [Link](https://go.iot-devices.com.ua/gcemu20_v1_tindie) | |
+| [GGreg20_ES](https://iot-devices.com.ua/en/product/ggreg20-geiger-counter-epoxy-souvenir/) | [Link](https://go.iot-devices.com.ua/ggreg20_es) | [Link](https://go.iot-devices.com.ua/ggreg20_es_tindie) | [Link](https://go.iot-devices.com.ua/ggreg20_es_etsy) |
+| [DCDC_3V3_400V_V1](https://iot-devices.com.ua/en/product/peretvoruvach-naprugy-postijnogo-strumu-dcdc_3v3_400v_v1-3-3-vv-naprugu-400-v-dlya-zhyvlennya-trubky-gejgera-myullera/) | [Link](https://go.iot-devices.com.ua/dcdc_3v3_400v_v1) | [Link](https://go.iot-devices.com.ua/dcdc_3v3_400v_v1_tindie) | |
+| [I2CHUB_V1](https://iot-devices.com.ua/en/product/i2chub-v1-module-i2c-bus-interfaces-splitter/) | [Link](https://go.iot-devices.com.ua/i2chub_v1) | [Link](https://go.iot-devices.com.ua/i2chub_v1_tindie) |  |
+| [PS4IoT_V1](https://iot-devices.com.ua/en/product/ps4iot-smart-power-module/) | *discontinued* | - | - |
 
 ## 28.10.2023
 ### [EN: GGreg20_ES – souvenir Geiger counter](https://iot-devices.com.ua/en/ggreg20-geiger-counter-epoxy-souvenir/)
