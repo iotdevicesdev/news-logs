@@ -90,6 +90,15 @@ View the full list of easy links on our [website](https://iot-devices.com.ua/eas
 | [I2CHUB_V1](https://iot-devices.com.ua/en/product/i2chub-v1-module-i2c-bus-interfaces-splitter/) | [Link](https://go.iot-devices.com.ua/i2chub_v1) | [Link](https://go.iot-devices.com.ua/i2chub_v1_tindie) |  |
 | [PS4IoT_V1](https://iot-devices.com.ua/en/product/ps4iot-smart-power-module/) | *discontinued* | - | - |
 
+## 21.12.2023
+### [EN: GGreg20_ES Price Reduced](https://iot-devices.com.ua/en/price-for-ggreg20_es-has-been-reduced-en/)
+#### [Ціну на GGreg20_ES знижено](https://iot-devices.com.ua/price-for-ggreg20_es-has-been-reduced/)
+
+>We have come to the conclusion that we can significantly reduce the price of this wonderful product. And that is what we have done today....
+
+![GGreg20_ES](https://iot-devices.com.ua/wp-content/uploads/2023/10/ggreg20_es_photo8910-1536x1152.jpg)
+
+
 ## 28.10.2023
 ### [EN: GGreg20_ES – souvenir Geiger counter](https://iot-devices.com.ua/en/ggreg20-geiger-counter-epoxy-souvenir/)
 #### [GGreg20_ES – сувенірний лічильник Гейгера](https://iot-devices.com.ua/ggreg20_v3-esp12-oled_v1-kpi-project/)
