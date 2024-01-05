@@ -73,6 +73,14 @@ View the full list of easy links on our [website](https://iot-devices.com.ua/eas
 | [I2CHUB_V1](https://iot-devices.com.ua/en/product/i2chub-v1-module-i2c-bus-interfaces-splitter/) | [Link](https://go.iot-devices.com.ua/i2chub_v1) | [Link](https://go.iot-devices.com.ua/i2chub_v1_tindie) |  |
 | [PS4IoT_V1](https://iot-devices.com.ua/en/product/ps4iot-smart-power-module/) | *discontinued* | - | - |
 
+## 05.01.2024
+### [EN: About changes in ESPHome configuration validation – Pin Reuse validation](https://iot-devices.com.ua/en/about-changes-in-esphome-configuration-validation-pin-reuse-validation-en/)
+#### [Про зміни у валідації конфігу ESPHome – Pin Reuse validation](https://iot-devices.com.ua/about-changes-in-esphome-configuration-validation-pin-reuse-validation/)
+
+>Recently, the ESPHome firmware has been changed to prevent the same controller I/O ports from being reused to create different entities.....
+
+![Pin Reuse validation Image](https://lh7-us.googleusercontent.com/NbMNFqAgMd6hpZWh-NXKLErqXahzagxGzuFmMuTS-pOh1kLpEa0c3RNqNSzc3sHs_L5xhrqexi882bwe6vmlPBunFqvNpaia62ckDj0jKklpRWig2qTRTOSN_sgx3lsHbxyk9dNmbbe-ZTtzwnI6B8I)
+
 ## 21.12.2023
 ### [EN: GGreg20_ES Price Reduced](https://iot-devices.com.ua/en/price-for-ggreg20_es-has-been-reduced-en/)
 #### [Ціну на GGreg20_ES знижено](https://iot-devices.com.ua/price-for-ggreg20_es-has-been-reduced/)
