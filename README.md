@@ -73,6 +73,14 @@ View the full list of easy links on our [website](https://iot-devices.com.ua/eas
 | [I2CHUB_V1](https://iot-devices.com.ua/en/product/i2chub-v1-module-i2c-bus-interfaces-splitter/) | [Link](https://go.iot-devices.com.ua/i2chub_v1) | [Link](https://go.iot-devices.com.ua/i2chub_v1_tindie) |  |
 | [PS4IoT_V1](https://iot-devices.com.ua/en/product/ps4iot-smart-power-module/) | *discontinued* | - | - |
 
+## 07.01.2024
+### [EN: LM75 thermometer: connection to ESP12.OLED_V1 in ESPHome](https://iot-devices.com.ua/en/lm75-thermometer-connection-to-esp12-oled_v1-in-esphome-en/)
+#### [Термометр LM75: підключення до ESP12.OLED_V1 у ESPHome](https://iot-devices.com.ua/lm75-thermometer-connection-to-esp12-oled_v1-in-esphome/)
+
+>Everyone who is involved in DIY IoT projects is familiar with the LM75 temperature sensor. Termometer LM75 – it is a cheap and convenient sensor that has sufficient accuracy and measurement range...
+
+![LM75 ESPHome Image](https://lh7-us.googleusercontent.com/2IO_QsYCPegb15n4XkZZsZDiHSr8LHAXmo0eJKCdHTLIiyRERwwLw8AZLHsOyJnZ_85ciPBnnY23iEOM8HTMqSwMHFZrgcqfWqxqIV2IVVB4kx3fCC8g7F9LLwW0iX_haE7DYUq38NYbpO8Er0IQdGw)
+
 ## 05.01.2024
 ### [EN: About changes in ESPHome configuration validation – Pin Reuse validation](https://iot-devices.com.ua/en/about-changes-in-esphome-configuration-validation-pin-reuse-validation-en/)
 #### [Про зміни у валідації конфігу ESPHome – Pin Reuse validation](https://iot-devices.com.ua/about-changes-in-esphome-configuration-validation-pin-reuse-validation/)
