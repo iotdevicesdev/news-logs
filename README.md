@@ -73,6 +73,15 @@ View the full list of easy links on our [website](https://iot-devices.com.ua/eas
 | [I2CHUB_V1](https://iot-devices.com.ua/en/product/i2chub-v1-module-i2c-bus-interfaces-splitter/) | [Link](https://go.iot-devices.com.ua/i2chub_v1) | [Link](https://go.iot-devices.com.ua/i2chub_v1_tindie) |  |
 | [PS4IoT_V1](https://iot-devices.com.ua/en/product/ps4iot-smart-power-module/) | *discontinued* | - | - |
 
+## 08.01.2024
+### [EN: Geiger tube J305: How to calculate the conversion factor of CPM to μSv/h. Technical note](https://iot-devices.com.ua/en/geiger-tube-j305-how-to-calculate-the-conversion-factor-of-cpm-technical-note-en/)
+#### [Трубка Гейгера J305: Як розрахувати коефіцієнт перетворення CPM у мкЗв/год. Технічна нотатка](https://iot-devices.com.ua/geiger-tube-j305-how-to-calculate-the-conversion-factor-of-cpm-technical-note/)
+
+>We have already made a similar publication for the SBM20 Geiger tube. This time we bring to your attention an article dedicated to the equally popular J305 tube made in...
+
+![J305 Conversion Factor GGreg20_V3 Image](https://iot-devices.com.ua/wp-content/uploads/2024/01/ggreg20_v3_j305_conversion_factor.jpg)
+
+
 ## 07.01.2024
 ### [EN: LM75 thermometer: connection to ESP12.OLED_V1 in ESPHome](https://iot-devices.com.ua/en/lm75-thermometer-connection-to-esp12-oled_v1-in-esphome-en/)
 #### [Термометр LM75: підключення до ESP12.OLED_V1 у ESPHome](https://iot-devices.com.ua/lm75-thermometer-connection-to-esp12-oled_v1-in-esphome/)
