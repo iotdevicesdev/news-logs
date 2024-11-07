@@ -69,9 +69,19 @@ View the full list of easy links on our [website](https://iot-devices.com.ua/eas
 | [GGreg20_V3](https://iot-devices.com.ua/en/product/ggreg20_v3-ionizing-radiation-detector-with-geiger-tube-sbm-20/) | [Link](https://go.iot-devices.com.ua/ggreg20_v3) | [Link](https://go.iot-devices.com.ua/ggreg20_v3_tindie) | [Link](https://go.iot-devices.com.ua/ggreg20_v3_etsy) |
 | [GCemu20_V1](https://iot-devices.com.ua/en/product/gcemu20_v1-geiger-counter-emulator/) | [Link](https://go.iot-devices.com.ua/gcemu20_v1) | [Link](https://go.iot-devices.com.ua/gcemu20_v1_tindie) | |
 | [GGreg20_ES](https://iot-devices.com.ua/en/product/ggreg20-geiger-counter-epoxy-souvenir/) | [Link](https://go.iot-devices.com.ua/ggreg20_es) | [Link](https://go.iot-devices.com.ua/ggreg20_es_tindie) | [Link](https://go.iot-devices.com.ua/ggreg20_es_etsy) |
-| [DCDC_3V3_400V_V1](https://iot-devices.com.ua/en/product/peretvoruvach-naprugy-postijnogo-strumu-dcdc_3v3_400v_v1-3-3-vv-naprugu-400-v-dlya-zhyvlennya-trubky-gejgera-myullera/) | [Link](https://go.iot-devices.com.ua/dcdc_3v3_400v_v1) | [Link](https://go.iot-devices.com.ua/dcdc_3v3_400v_v1_tindie) | |
+| [DCDC_3V3_400V_V1](https://iot-devices.com.ua/en/product/peretvoruvach-naprugy-postijnogo-strumu-dcdc_3v3_400v_v1-3-3-vv-naprugu-400-v-dlya-zhyvlennya-trubky-gejgera-myullera/) | [Link](https://go.iot-devices.com.ua/dcdc_3v3_400v_v1) | [Link](https://go.iot-devices.com.ua/dcdc_3v3_400v_v1_tindie) | [Link](https://go.iot-devices.com.ua/dcdc_3v3_400v_v1_etsy)|
 | [I2CHUB_V1](https://iot-devices.com.ua/en/product/i2chub-v1-module-i2c-bus-interfaces-splitter/) | [Link](https://go.iot-devices.com.ua/i2chub_v1) | [Link](https://go.iot-devices.com.ua/i2chub_v1_tindie) |  |
 | [PS4IoT_V1](https://iot-devices.com.ua/en/product/ps4iot-smart-power-module/) | *discontinued* | - | - |
+
+
+## 24.03.2024
+### [EN: Geiger tube J305 conversion factor: differences between the coefficient for source radiation power and absorbed dose. Technical note](https://iot-devices.com.ua/en/geiger-tube-j305-conversion-factor-difference-for-radiation-source-power-and-absorbed-dose-technical-note-en/)
+#### [Коефіцієнт перетворення трубки Гейгера J305: відмінності коефіцієнту для потужності випромінювання джерела та для поглинутої дози. Технічна нотатка](https://iot-devices.com.ua/geiger-tube-j305-conversion-factor-difference-for-radiation-source-power-and-absorbed-dose-technical-note/)
+
+>When calculating the conversion factor for the Geiger tube pulse count, we need to be aware of what exactly we want to get as the output....
+
+![Differences between the coefficient for source radiation power and absorbed dose Image](https://iot-devices.com.ua/wp-content/uploads/2024/03/GGreg20_V3_Differences-in-Conversion-Factor.webp)
+
 
 ## 08.01.2024
 ### [EN: Geiger tube J305: How to calculate the conversion factor of CPM to μSv/h. Technical note](https://iot-devices.com.ua/en/geiger-tube-j305-how-to-calculate-the-conversion-factor-of-cpm-technical-note-en/)
